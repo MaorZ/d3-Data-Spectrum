@@ -1,7 +1,7 @@
 d3-Data-Spectrum
 ================
 
-d3.js plugin that gives a very scaleble GUI component to see data in any type of wide spectrums ranges (Numeric renage, Time range and any other range you can think of) <b>Including Nevigating, Zooming, Sliding and more... And it Supports a very wide ranges (up to 500,000 Cells in a single html page divied to 6 spectrums (My biggest test))</b>
+d3.js plugin that gives a very scalable GUI component to see data in any type of wide spectrums ranges (Numeric renage, Time range and any other range you can think of) <b>Including Navigating, Zooming, Sliding and more... And it Supports a very wide ranges (up to 500,000 Cells in a single html page divied to 6 spectrums (My biggest test))</b>
 
 <b>[Example Page](https://rajesh-aranga.codio.io/d3Test.html)</b>
 
@@ -150,7 +150,7 @@ This GUI Component Supports in:<br>
 <b>Pan</b>: you can click on the spectrum and drag it to any direction <br>
 <b>Slide (like in touch)</b>: You can click on the spectrum and drag it for a short time for 1 direction and the spectrum will slide regard to your drag distance and the time clicked... <br>
 <b>Zoom</b>: You can use the mouse wheel to zoom in or out the data in the spectrum <br>
-<b>Nevigation:</b> you use the nevigator (the top part of the spectrum) to go to any point by clicking it or drag the middle rect to any direction <br>
+<b>Navigation:</b> you use the nevigator (the top part of the spectrum) to go to any point by clicking it or drag the middle rect to any direction <br>
 
 # Modular and scalible
 
